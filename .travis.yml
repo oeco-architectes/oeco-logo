@@ -1,0 +1,14 @@
+os: osx
+language: node_js
+node_js: node
+env:
+  - PATH=/Applications/Sketch.app/Contents/Resources/sketchtool/bin:$PATH
+before_install:
+  - brew cask install sketch
+  - sketchtool -v
+script:
+  - npm run build
+cache:
+  directories:
+    - $HOME/.npm
+    - $HOME/Library/Caches/Homebrew
