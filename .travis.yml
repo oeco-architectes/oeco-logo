@@ -9,6 +9,8 @@ before_install:
 script:
   - npm run build
 deploy:
+  # Warning: gh-pages branch must exist on Github repository
+  # See https://github.com/travis-ci/travis-ci/issues/9662
   provider: pages
   local-dir: dist
   skip_cleanup: true
