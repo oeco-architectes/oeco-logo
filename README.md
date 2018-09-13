@@ -3,7 +3,7 @@ Oeco Architectes logo
 
 [![Build Status](https://travis-ci.org/oeco-architectes/oeco-logo.svg?branch=master)](https://travis-ci.org/oeco-architectes/oeco-logo)
 [![dependencies Status](https://david-dm.org/oeco-architectes/oeco-logo/status.svg)](https://david-dm.org/oeco-architectes/oeco-logo)
-[![devDependencies Status](https://david-dm.org/oeco-architectes/oeco-logo/dev-status.svg)](https://david-dm.org/oeco-architectes/oeco-logo?type=dev)
+[![devDependencies Status](https://david-dm.org/oeco-architectes/oeco-logo/dev-status.svg)](https://david-dm.org/oeco-architectes/oeco-logo?type=dev) [![Greenkeeper badge](https://badges.greenkeeper.io/oeco-architectes/oeco-logo.svg)](https://greenkeeper.io/)
 
 Requirements
 ------------
